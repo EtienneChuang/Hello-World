@@ -3,6 +3,5 @@ Hello-World
 
 This is my first repo, just give it a try.
 
-<?php
-  ehco "test";
-?>
+<h1>Hello</h1>
+<h1>Hello</h1>
