@@ -24,6 +24,12 @@ with Object-Oriented Design Patterns in C++</a><br/>
 <a href="https://github.com/php">php.net-GitHub</a>
 <a href="http://www.google.com/about/careers/">Google Careers</a>
 <a href="http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1">GitHub for Beginners</a>
+<a href="http://www.codeofaninja.com/2014/09/php-shopping-cart-tutorial-using-cookies.html">PHP Shopping Cart Tutorial Using Cookies</a>
+<a href="http://www.entheosweb.com/photoshop/layout.asp">How to design a website layout in Photoshop</a>
+<a href="http://www.html5tutorial4u.com/">HTML5 Tutorial For Beginners</a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
