@@ -14,7 +14,7 @@ with Object-Oriented Design Patterns in C++</a><br/>
 <a href="http://freecomputerbooks.com/compscCategory.html">free computer science books</a><br/>
 <a href="http://www.catb.org/esr/faqs/hacker-howto.html#why_this">how to become a hacker</a><br/>
 <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenCourseWare - YouTube</a><br/>
-<a href="http://www.w3schools.com/">W3Scholls Online Web Tutorials</a><br/>
+<a href="http://www.w3schools.com/">W3Schools Online Web Tutorials</a><br/>
 <a href="https://getcomposer.org/doc/00-intro.md#dependency-management">Composer</a><br/>
 <a href="http://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science">List of important publications in computer science</a><br/>
 <a href="http://laravel.io/forum">Forum - Laravel.IO</a><br/>
