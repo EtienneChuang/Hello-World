@@ -3,7 +3,7 @@
     alert("test");
   }
 </script>
-<div id="#1" clickon="hide()">
+<div id="#1" onclick="hide()">
 <h3>Some websites for learning</h3>
 <a href="https://github.com/othree/markdown-syntax-zhtw">markdown syntax in traditional Chinese</a><br/>
 <a href="https://github.com/facebook/hhvm">Facebook/hhvm-GitHub</a><br/>
