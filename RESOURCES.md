@@ -1,10 +1,10 @@
 <script>
-  function hide(){
+  function hide(obj){
     alert("test");
   }
 </script>
-<div id="#1" onclick="hide()">
-<h3>Some websites for learning</h3>
+<div>
+<h3 id="#1" onclick="hide(this)">Some websites for learning</h3>
 <a href="https://github.com/othree/markdown-syntax-zhtw">markdown syntax in traditional Chinese</a><br/>
 <a href="https://github.com/facebook/hhvm">Facebook/hhvm-GitHub</a><br/>
 <a href="http://tryruby.org/levels/1/challenges/1">Try Ruby</a><br/>
