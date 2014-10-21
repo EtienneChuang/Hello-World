@@ -1,10 +1,4 @@
-<script>
-  function hide(obj){
-    alert("test");
-  }
-</script>
-<div>
-<h3 id="#1" onclick="hide(this)">Some websites for learning</h3>
+<h3>Some websites for learning</h3>
 <a href="https://github.com/othree/markdown-syntax-zhtw">markdown syntax in traditional Chinese</a><br/>
 <a href="https://github.com/facebook/hhvm">Facebook/hhvm-GitHub</a><br/>
 <a href="http://tryruby.org/levels/1/challenges/1">Try Ruby</a><br/>
@@ -76,4 +70,4 @@ with Object-Oriented Design Patterns in C++</a><br/>
 <a href=""></a><br/>
 <a href=""></a><br/>
 <a href=""></a><br/>
-</div>
+
